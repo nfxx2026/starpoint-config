@@ -2,7 +2,7 @@
   "app_version": "2.3.4",
   "base_function_lock": false,
   "commercial_function_switch": false,
-  "external_list_enable": false,
+  "external_list_enable": true,
   "blacklist_device_sn": [],
   "authority_expire_time": "",
   "notice_text": "",
