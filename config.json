@@ -6,6 +6,6 @@
   "blacklist_device_sn": [],
   "authority_expire_time": "",
   "notice_text": "",
-  "cloud_list_encrypt_code": "这里放验证码加密串",
+  "cloud_list_encrypt_code": "dFwvSFlFHPVrziEwLHMHQA==",
   "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
