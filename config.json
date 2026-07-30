@@ -3,9 +3,9 @@
     "base_function_lock": false,
     "commercial_function_switch": true,
     "external_list_enable": true,
-    "blacklist_device_sn": [],
+    "blacklist_device_sn": ["TEST_SN_00000001"],
     "authority_expire_time": "2026-12-31 23:59:59",
-    "notice_text": "限时授权调试中\n授权有效期至：2026年12月31日\n商用功能已解锁，到期前均可正常使用所有功能",
+    "notice_text": "黑名单机制调试\n当前黑名单已录入测试设备序列号\n本机未被封禁，依旧正常使用全部权限",
     "cloud_list_encrypt_code": "dFwvSF1FHPVrziEwLHMHQA==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
