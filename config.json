@@ -5,7 +5,7 @@
     "external_list_enable": true,
     "blacklist_device_sn": [],
     "authority_expire_time": "",
-    "notice_text": "欢迎使用星际点将v2.3.12云端版本\n当前：24药剂19班名单已同步\n基础手势点名、滚动、随机点名全部开放",
+    "notice_text": "系统更新提示\n本次云端配置已适配v2.3.12完整版\n✅云端名单同步稳定\n✅手势点名全档位开放\n✅永久授权无到期限制\n如有使用问题可反馈调试",
     "cloud_list_encrypt_code": "dFwvSF1FHPVrziEwLHMHQA==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
