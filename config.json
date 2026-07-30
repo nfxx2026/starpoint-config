@@ -1,11 +1,11 @@
 {
     "app_version": "2.3.12",
     "base_function_lock": false,
-    "commercial_function_switch": true,
+    "commercial_function_switch": false,
     "external_list_enable": true,
-    "blacklist_device_sn": ["TEST_SN_00000001"],
-    "authority_expire_time": "2026-12-31 23:59:59",
-    "notice_text": "黑名单机制调试\n当前黑名单已录入测试设备序列号\n本机未被封禁，依旧正常使用全部权限",
+    "blacklist_device_sn": [],
+    "authority_expire_time": "",
+    "notice_text": "星际点将v2.3.5 日常运行版本｜云端名单自动加载，永久免费使用基础点名功能",
     "cloud_list_encrypt_code": "dFwvSF1FHPVrziEwLHMHQA==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
