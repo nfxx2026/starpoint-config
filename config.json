@@ -4,8 +4,8 @@
     "commercial_function_switch": true,
     "external_list_enable": true,
     "blacklist_device_sn": [],
-    "authority_expire_time": "",
-    "notice_text": "系统更新提示\n本次云端配置已适配v2.3.12完整版\n✅云端名单同步稳定\n✅手势点名全档位开放\n✅永久授权无到期限制\n如有使用问题可反馈调试",
+    "authority_expire_time": "2026-12-31 23:59:59",
+    "notice_text": "限时授权调试中\n授权有效期至：2026年12月31日\n商用功能已解锁，到期前均可正常使用所有功能",
     "cloud_list_encrypt_code": "dFwvSF1FHPVrziEwLHMHQA==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
