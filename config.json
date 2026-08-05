@@ -1,11 +1,11 @@
 {
-    "app_version": "2.3.12",
+    "app_version": "2.4.2",
     "base_function_lock": false,
-    "commercial_function_switch": false,
+    "commercial_function_switch": true,
     "external_list_enable": true,
     "blacklist_device_sn": [],
     "authority_expire_time": "",
-    "notice_text": "星际点将v2.3.5 日常运行版本｜云端名单自动加载，永久免费使用基础点名功能",
-    "cloud_list_encrypt_code": "lhNR8publQWzwGQNfrpZyg==",
-    "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
+    "notice_text": "星际点将 v2.4.2 正式版｜授权后自动加载云端名单｜本地点名功能永久免费",
+    "cloud_list_encrypt_code": "dFwvSFlFHPVrziEwLHMHQA==",
+    "cloud_list_url": "https://raw.githubusercontent.com/nfx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
