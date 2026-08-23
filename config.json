@@ -5,7 +5,7 @@
     "external_list_enable": true,
     "blacklist_device_sn": [],
     "authority_expire_time": "",
-    "notice_text": "星际点将 v2.4.2 正式版 | 授权后自动加载云端名单 | 本地点名功能永久免费",
+    "notice_text": "课堂助手 v3.6.10 正式版 | 授权后自动加载云端名单 | 本地点名功能永久免费",
     "cloud_list_encrypt_code": "lhNR8publQWzwGQNfrpZyg==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2006/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
