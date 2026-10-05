@@ -1,6 +1,6 @@
 {
     "app_version": "2.4.2",
-    "base_function_lock": false,
+    "base_function_lock": true,
     "commercial_function_switch": true,
     "external_list_enable": true,
     "blacklist_device_sn": [],
