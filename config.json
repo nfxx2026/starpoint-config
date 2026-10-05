@@ -1,5 +1,5 @@
 {
-    "base_function_lock": true,
+    "base_function_lock": false,
     "app_version": "3.6.96",
     "commercial_function_switch": false,
     "external_list_enable": false,
