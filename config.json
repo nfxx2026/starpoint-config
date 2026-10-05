@@ -1,11 +1,11 @@
 {
-    "app_version": "3.6.87",
+    "app_version": "3.6.88",
     "base_function_lock": false,
-    "commercial_function_switch": false,
+    "commercial_function_switch": ture,
     "external_list_enable": false,
     "blacklist_device_sn": [""],
     "authority_expire_time": "",
-    "notice_text": "课堂助手 v3.6.87 测试版 | 授权后自动加载云端名单 | 本地点名功能永久免费",
+    "notice_text": "课堂助手 v3.6.88 测试版 | 授权后自动加载云端名单 | 本地点名功能永久免费",
     "cloud_list_encrypt_code": "lhNR8publQWzwGQNfrpZyg==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2026/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
