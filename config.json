@@ -1,7 +1,7 @@
 {
     "app_version": "3.6.88",
     "base_function_lock": false,
-    "commercial_function_switch": ture,
+    "commercial_function_switch": true,
     "external_list_enable": false,
     "blacklist_device_sn": [""],
     "authority_expire_time": "",
