@@ -6,7 +6,7 @@
     "external_list_enable": false,
     "authority_expire_time": "",
     "notice_text": "课堂助手 v3.6.91 测试版 | 授权后可使用完整功能 | 本地点名功能永久免费 | Copyright (c) 2026 课堂助手 by Liguoming",
-    "revoke_check_code": "",
+    "revoke_check_code": "1007",
     "cloud_list_encrypt_code": "lhNR8publQWzwGQNfrpZyg==",
     "cloud_list_url": "https://raw.githubusercontent.com/nfxx2026/starpoint-config/refs/heads/main/cloud_student_list.enc"
 }
